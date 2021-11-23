@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: register-login-service
+
+eureka:
+  instance:
+    hostname: localhost
